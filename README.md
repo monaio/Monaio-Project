@@ -1,6 +1,6 @@
 # Graft Network
 
-Copyright (c) 2017-2019, The Graft Project
+Copyright (c) 2022, The Monaio Project
 
 ## Monero Fork (Monero version 0.13)
 
@@ -10,9 +10,9 @@ Portions Copyright (c) 2012-2013, The Cryptonote developers
 
 ## Development resources
 
-- Web: [graft.network](https://www.graft.network)
-- Forum: [Graft Blockchain Forum](https://www.graft.network/forum/)
-- GitHub: [https://github.com/graft-project/GraftNetwork](https://github.com/graft-project/GraftNetwork)
+- Web: [graft.network](https://www.monaio.org)
+- Forum: [Graft Blockchain Forum](https://www.monaio.org/forum/)
+- GitHub: [https://github.com/graft-project/GraftNetwork](https://github.com/monaio/monaio-project/)
 - Monero GitHub: [https://github.com/monero-project/monero](https://github.com/monero-project/monero)
 
 ## Build
@@ -32,7 +32,7 @@ These builds are of the master branch, which is used for active development and 
 
 ## Introduction
 
-Graft Network is a private, secure, untraceable, decentralized digital cryptocurrency. You are your bank. You control your funds and nobody can trace your transactions unless you allow them to do so.
+Monaio Network is a private, secure, untraceable, decentralized digital cryptocurrency. You are your bank. You control your funds and nobody can trace your transactions unless you allow them to do so.
 
 **Privacy:** Graft Network uses a cryptographically sound system to allow you to send and receive funds without your transactions being easily revealed on the blockchain (the ledger of transactions that everyone has access to). This ensures that your purchases, receipts, and all transfers remain absolutely private by default.
 
