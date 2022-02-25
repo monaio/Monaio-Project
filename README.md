@@ -1,4 +1,4 @@
-# Graft Network
+# Monaio Network
 
 Copyright (c) 2022, The Monaio Project
 
